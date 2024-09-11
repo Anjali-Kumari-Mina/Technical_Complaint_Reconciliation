@@ -1,8 +1,8 @@
-# Technical_Complaint_Reconciliation
+# Technical_Complaint_Reconciliation_Tool
 
 Overview
 
-This repository provides a Python script for comparing CCC and EDC Excel sheets. It includes a .desktop file to create a launcher for the script and an icon image for the launcher. This setup allows you to easily run the Python script from your Linux desktop environment.
+This repository provides a Python script for comparing CCC and EDC Excel sheets. The tool includes a graphical user interface (GUI) built with Tkinter, which facilitates easy file selection and result display. The comparison results are saved in an Excel file with color-coded discrepancies to highlight mismatches and missing records.It includes a .desktop file to create a launcher for the script and an icon image for the launcher. This setup allows you to easily run the Python script from your Linux desktop environment.
 
 Contents :-
 
@@ -15,11 +15,11 @@ Setup Instructions
 
 Start by cloning this repository to your local machine:
 
-git clone https://github.com/Anjali-Kumari-Mina/Technical_Complaint_Reconciliation
+git clone https://github.com/Anjali-Kumari-Mina/Technical_Complaint_Reconciliation.git
 
 Navigate to the cloned directory:
 
-cd your-repository-name
+cd Technical_Complaint_Reconciliation
 
 2. Prepare the Files
 
@@ -50,3 +50,24 @@ Download the Python Script and Icon:
 Make sure the .desktop file is executable:
 
 chmod +x /path/to/your/Technical_Complaint_Reconciliation.desktop
+
+4. Move the .desktop File to Your Desktop
+
+To create a shortcut directly on your desktop:
+
+cp /path/to/your/Technical_Complaint_Reconciliation.desktop ~/Desktop/
+
+If the .desktop file does not appear immediately or you encounter any issues, ensure that your desktop environment is configured to display executable .desktop files.
+
+
+## Usage
+
+    Running the Python Script
+
+a)You can run the Python script directly from the terminal:
+
+python3 /path/to/your/Technical_Complaint_Reconciliation.py
+
+b) Using the Desktop Shortcut
+
+You should now see a launcher on your desktop. Double-click the launcher to run the Python script with the specified icon.
