@@ -15,7 +15,7 @@ Setup Instructions
 
 Start by cloning this repository to your local machine:
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/Anjali-Kumari-Mina/Technical_Complaint_Reconciliation
 
 Navigate to the cloned directory:
 
