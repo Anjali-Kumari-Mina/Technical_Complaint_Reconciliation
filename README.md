@@ -6,9 +6,9 @@ This repository provides a Python script for comparing CCC and EDC Excel sheets.
 
 Contents :-
 
-    Technical_Complaint_Reconciliation.py: The Python script that performs the comparison of Excel sheets.
-    Technical_Complaint_Reconciliation.desktop: A desktop entry file to create a launcher for the Python script.
-    TCC_Icon.jpeg: The icon image used for the launcher.
+    * Technical_Complaint_Reconciliation.py: The Python script that performs the comparison of Excel sheets.
+    * Technical_Complaint_Reconciliation.desktop: A desktop entry file to create a launcher for the Python script.
+    * TCC_Icon.jpeg: The icon image used for the launcher.
 
 Setup Instructions
 1. Clone the Repository
