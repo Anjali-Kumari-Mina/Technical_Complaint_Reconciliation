@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Technical Complaint Reconciliation
+Comment=Compare CCC and EDC Excel sheets
+Exec=python3 "/path/to/your/Technical_Complaint_Reconciliation.py"
+Icon=/path/to/your/TCC_Icon.jpeg
+Terminal=false
+Type=Application
+Categories=Utility;
+
