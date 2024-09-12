@@ -55,7 +55,7 @@ chmod +x /path/to/your/Technical_Complaint_Reconciliation.desktop
 
 To create a shortcut directly on your desktop:
 
-6. cp /path/to/your/Technical_Complaint_Reconciliation.desktop ~/Desktop/
+cp /path/to/your/Technical_Complaint_Reconciliation.desktop ~/Desktop/
 
 If the .desktop file does not appear immediately or you encounter any issues, ensure that your desktop environment is configured to display executable .desktop files.
 
