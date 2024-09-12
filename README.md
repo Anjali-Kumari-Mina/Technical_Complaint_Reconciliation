@@ -45,17 +45,17 @@ Download the Python Script and Icon:
     Type=Application
     Categories=Utility;
 
-3. Set Permissions
+4. Set Permissions
 
 Make sure the .desktop file is executable:
 
 chmod +x /path/to/your/Technical_Complaint_Reconciliation.desktop
 
-4. Move the .desktop File to Your Desktop
+5. Move the .desktop File to Your Desktop
 
 To create a shortcut directly on your desktop:
 
-cp /path/to/your/Technical_Complaint_Reconciliation.desktop ~/Desktop/
+6. cp /path/to/your/Technical_Complaint_Reconciliation.desktop ~/Desktop/
 
 If the .desktop file does not appear immediately or you encounter any issues, ensure that your desktop environment is configured to display executable .desktop files.
 
