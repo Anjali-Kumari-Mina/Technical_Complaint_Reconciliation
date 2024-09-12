@@ -28,7 +28,7 @@ Download the Python Script and Icon:
     Place Technical_Complaint_Reconciliation.py in a directory of your choice.
     Save the TCC_Icon.jpeg icon file in the same directory or update the path in the .desktop file accordingly.
 
-3. Modify the .desktop File:
+3. Modify the .desktop File
 
     Download the Technical_Complaint_Reconciliation.desktop file from this repository.
 
